@@ -1,17 +1,11 @@
 # Antiracism Symbol Design
 
 <figure>
-
-![antiracist](./antiracist.svg)
-
+<img src="antiracist.svg" alt="antiracist">
 <figcaption>
-
-copyright (c) 2019 Ricky de Laveaga
-
+copyright (c) 2019 Ricky de Laveaga<br />
 created Friday 19 July 2019
-
 </figcaption>
-
 </figure>
 
 My entry into the [Antiracism Symbol Design Challenge](http://www.randomhousebooks.com/campaign/antiracism-symbol-design-challenge/)
