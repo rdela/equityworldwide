@@ -1,14 +1,17 @@
-# [Antiracism Symbol Design](https://github.com/rdela/antiracist)
+<center><img src="equityworldwide-1500x500.png"><br /><h1><a href="https://github.com/rdela/equityworldwide">Equity Worldwide</a></h1></center><br />
 
-<figure>
-<img src="antiracist.svg" alt="antiracist">
-<figcaption>
-copyright (c) 2019 Ricky de Laveaga<br />
-version 0.0.2 created 20190914<br />
-version 0.0.1 created 20190719
-</figcaption>
-</figure>
+## Logo
 
-Channeling the [Black Power fist](https://en.wikipedia.org/wiki/Raised_fist) and [HRC's logo/equality symbol](https://www.hrc.org/hrc-story/about-our-logo), along with ["Hands up don't shoot"](https://en.wikipedia.org/wiki/Hands_up,_don%27t_shoot), this design uses simple, clear imagery to convey the antiracist message.
+![Equity Worldwide](equityworldwide.svg)
 
-[Source on GitHub](https://github.com/rdela/antiracist)
+Channeling the [Black Power fist](https://en.wikipedia.org/wiki/Raised_fist) and [HRC's logo/equality symbol](https://www.hrc.org/hrc-story/about-our-logo), along with ["Hands up don't shoot"](https://en.wikipedia.org/wiki/Hands_up,_don%27t_shoot), the design uses simple, clear imagery to convey the Equity Worldwide message.
+
+[Source on GitHub](https://github.com/rdela/equityworldwide)
+
+## Version history
+
+0.0.3 20200410<br />
+0.0.2 20190914<br />
+0.0.1 20190719
+
+copyright (c) 2019-2020 [Ricky de Laveaga](https://rdela.com/)
