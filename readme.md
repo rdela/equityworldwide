@@ -1,6 +1,8 @@
-<center><img src="equityworldwide-1500x500.png"><br /><h1><a href="https://github.com/rdela/equityworldwide">Equity Worldwide</a></h1></center><br />
+<br />
 
-## Logo
+![](equityworldwide-1500x500.png)
+
+## Equity Worldwide Logo
 
 ![Equity Worldwide](equityworldwide.svg)
 
