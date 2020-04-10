@@ -1,5 +1,3 @@
-<br />
-
 ![](equityworldwide-1500x500.png)
 
 ## Equity Worldwide Logo
