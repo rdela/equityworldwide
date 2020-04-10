@@ -1,5 +1,7 @@
 ![](img/equityworldwide-1500x500.png)
 
+Advocating for equity, economic prosperity, liberty, and justice for all ☮️
+
 ## Equity Worldwide Logo
 
 ![Equity Worldwide](img/equityworldwide.svg)

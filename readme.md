@@ -1,4 +1,6 @@
-# Equity Worldwide
+# Equity Worldwide ⚖️🌍
+
+Advocating for equity, economic prosperity, liberty, and justice for all ☮️
 
 ## Version history
 
