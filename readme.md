@@ -1,6 +1,6 @@
 # Equity Worldwide ⚖️🌍
 
-Advocating for equity, prosperity, and liberty around the globe ☮️
+Advocating for equity, prosperity, and liberty around the globe ☮️🕊
 
 ## Version history
 
