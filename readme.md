@@ -2,6 +2,10 @@
 
 Advocating for equity, prosperity, and liberty around the globe ☮️🕊
 
+## [Docs](docs/)
+
+[Read the docs](docs/).
+
 ## Version history
 
 - 0.0.3 20200410
