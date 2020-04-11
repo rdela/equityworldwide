@@ -1,3 +1,7 @@
+---
+title: Equity Worldwide
+---
+
 ![](img/equityworldwide-1500x500.png)
 
 Advocating for equity, prosperity, and liberty around the globe ☮️🕊
