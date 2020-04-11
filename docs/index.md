@@ -6,6 +6,8 @@ title: Home
 
 Advocating for equity, prosperity, and liberty around the globe ☮️🕊
 
+[Follow Equity Worldwide on Twitter](https://twitter.com/equityworldwide).
+
 ## Equity Worldwide Logo
 
 ![Equity Worldwide](img/equityworldwide.svg)
